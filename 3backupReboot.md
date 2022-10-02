@@ -8,3 +8,9 @@
 ```
 sudo tar -jcvf /백업저장소/YYYYMMDDbackup.tar.bz2 /백업을진행할디렉토리
 ```
+
+#### 3.2. 리부트하기
+##### 
+```
+sudo reboot
+```
